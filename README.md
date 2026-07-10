@@ -1,2 +1,2 @@
 - 🌱 currently learning .NET, backend development, finance, ML
-- ⚡ [Ander](https://andersenlab.com/)
+- ⚡ [Andersen](https://andersenlab.com/)
